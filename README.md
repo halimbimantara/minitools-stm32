@@ -37,6 +37,15 @@ Dillinger uses a number of open source projects to work properly:
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
+ 
+### Development
+- PCB Design
+
+### Todos
+
+ - Write MORE Tests
+ - Add Night Mode
+
 
 ### Installation
 
@@ -46,20 +55,8 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Delingger | [https://dillinger.io] |
 
-
-### Development
-
-### Todos
-
- - Write MORE Tests
- - Add Night Mode
 
 License
 ----
