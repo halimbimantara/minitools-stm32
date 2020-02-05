@@ -1,7 +1,6 @@
 # Minitols-kit stm32
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 mto is a micro mcu with simple integrated feature .
@@ -11,10 +10,8 @@ mto is a micro mcu with simple integrated feature .
   - Monitoring
 
 # Plug n Play!
-
   - Support sensor module
   - Easy to program using [Android]
-
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
@@ -26,27 +23,14 @@ You can also:
 Dillinger uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
-* [Ace Editor] - awesome web-based text editor
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [Gulp] - the streaming build system
-* [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
-* [jQuery] - duh
-
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
  
 ### Development
 - PCB Design
-
-### Todos
-
- - Write MORE Tests
- - Add Night Mode
-
-
+### Components
+  - STM32
+  - ESP32 / NODEMCU
 ### Installation
 
 ### Plugins
